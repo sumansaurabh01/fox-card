@@ -47,11 +47,12 @@ body {
 .img {
     border-radius: 20px;
     height: 54vw;
-    width: 77vw;
+    width: 75vw;
+    
 }
 
 h1.font {
-    word-break: break-all;
+    
     font-family: 'Gill Sans', 'Gill Sans MT',' Calibri', 'Trebuchet MS', 'sans-serif';
     font-size: xxx-large;
     text-decoration: underline;
@@ -85,4 +86,5 @@ text-decoration: none;
     border-radius: 20px;
     
 }
+
 
