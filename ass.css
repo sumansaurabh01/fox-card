@@ -54,7 +54,7 @@ body {
 h1.font {
     
     font-family: 'Gill Sans', 'Gill Sans MT',' Calibri', 'Trebuchet MS', 'sans-serif';
-    font-size: xxx-large;
+    font-size: x-large;
     text-decoration: underline;
     text-transform: capitalize;
     margin: 17px;
@@ -86,5 +86,6 @@ text-decoration: none;
     border-radius: 20px;
     
 }
+
 
 
